@@ -1,0 +1,75 @@
+#1st day i learn about HTML TUTORIAL FOR BEGINNERS 
+
+1.what is html
+*html=hyper text markup language
+*used to structure web pages
+*uses tags to tell the browser what each part is
+
+
+
+2.basic html document structure
+ <!DOCTYPE html>
+<html>
+ <head>
+   <title>my first page</tittle>
+ </head>
+<body>
+  <h1>hello world</h1>
+  <p>this is my first website.</p>
+</body>
+</html>
+
+3.explanation
+<!DOCTYPE html>
+Tells the browser this is an HTML5 document
+
+<html>
+Root element
+
+All HTML code goes inside this tag
+<head>
+Contains meta information
+Not shown on the page
+
+Includes:
+
+<title> (page name in browser tab)
+<meta> (charset, viewport, SEO info)
+<link> (CSS)
+<script> (JS)
+<title>
+Shows text on the browser tab
+<body>
+Contains visible content
+Headings, paragraphs, images, links, buttons, etc
+
+4.most common html tags inside <body>
+*<h1> to<h6>  -> headings
+*<p>->paragraph
+*<a>->link 
+*<img>->image
+*<br> → line break
+*<hr> → horizontal line
+
+5.html rules
+Most tags have opening and closing tags
+<p>Text</p>
+Tags are nested properly
+HTML is not case-sensitive, but lowercase is best practice
+
+
+6.File Rules
+Save file as: index.html
+Open in any browser (Chrome, Edge, Firefox)
+
+
+
+7. HTML = structure, not design
+(CSS = design, JavaScript = behavior)
+
+#summary 
+*html uses tags <> </> to present  content
+*there are many different tags
+*tags can contain attributes <p class="my class">
+*tags can be nested in other tags
+*tags are normally indented when nested for readability
