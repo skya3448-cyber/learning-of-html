@@ -1,0 +1,32 @@
+day2:web page
+1.code:
+<!DOCTYPE html>
+<html>
+<head>
+     <title>my first web page</title>
+</head>
+<body>
+     <h1>hello guys </h1>
+     <p>this is my first web page</p>
+</body>
+</html>
+
+
+2.explanation of tags
+<DOCTYPPE html>
+*declares the document as the HTML
+*helps browser render correctly
+
+<head>
+*contains meta information
+*not viisible on web page
+
+
+
+
+
+summary
+*learn how to create and run your first HTML web page
+*understand basic HTML page structure
+*see how HTML works in browser
+
