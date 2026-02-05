@@ -1,0 +1,10 @@
+1: the head tag cotains meta information about the page. this includes the title,link to CSS files,scripts,
+character set,and other data that the browser uses but does not display on the page
+
+2:the body tag contains all the content visible to the user _headings ,paragraphs,images,links,lists,etc.
+  everything inside<body> appears on the web page.
+
+3:distinction between <head> and <body>
+*the browser correctly renders the page
+*CSS/js load properly 
+*search engines and browsers interpret your page accurately
