@@ -1,0 +1,35 @@
+day03:HTML HEADINGs
+html provide 6 heading tags,used to define titles and sub titles on a webpage.
+
+<h1>heading </h1>
+<h2> heading </h2>
+<h3>heading 3</h3>
+<h4>heading 4 </h4>
+<h5>heading 5</h5>
+<h6>heading 6</h6>
+
+
+key points:
+<h1> is the most important heading
+<h6> is the least important
+
+heading help with :
+*page structuure
+*SEO(search engines understand your content)
+*aceessibility
+
+
+importtance of TAG(most important foe SEO)
+*Tells search engines what the page is mainly about
+*Often treated like the title of the content
+
+Why it matters:
+*Google uses <h1> to understand the main topic
+*Improves chances of ranking for that keyword
+*Helps screen readers for accessibility
+
+
+key point:
+h1->use only <h1> per page
+h2-h6->>content stucture
+
