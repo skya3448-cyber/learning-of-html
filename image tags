@@ -1,0 +1,33 @@
+syntax:
+<img src="image.jpg" alt="description of image">
+
+
+required attriburtes:
+*src --- specifies the path or url of the image file
+*alt ---provides alternate text if the image can't be loaded 
+*width and height----set the display size of image
+ex:
+<img src="cat.png" alt="A cute sleeping cat">
+
+
+supported image formats
+*jpeg
+*png
+*GIF
+*SVG
+*WebP
+
+
+
+*&*EXAMPLE:using <img> in web page
+<!DOCTYPE html>
+<html>
+<body>
+  <h1>My Favorite Animal</h1>
+  <img src="dog.jpg" alt="Golden Retriever playing in grass" width="500">
+</body>
+</html>
+
+
+
+
