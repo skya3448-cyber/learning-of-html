@@ -21,6 +21,56 @@
     <p>
         Visit <a href="https://www.google.com" target="_blank">Google</a>_
 
+     <!-- Image -->
+    <img src="https://via.placeholder.com/150" alt="Sample Image">
+
+    <!-- Lists -->
+    <h3>Things I’m Learning</h3>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+
+    <h3>My Daily Routine</h3>
+    <ol>
+        <li>Study</li>
+        <li>Practice</li>
+        <li>Rest</li>
+    </ol>
+
+    <!-- Table -->
+    <h3>Study Schedule</h3>
+    <table border="1">
+        <tr>
+            <th>Day</th>
+            <th>Subject</th>
+        </tr>
+        <tr>
+            <td>Monday</td>
+            <td>HTML</td>
+        </tr>
+        <tr>
+            <td>Tuesday</td>
+            <td>CSS</td>
+        </tr>
+    </table>
+
+    <!-- Form -->
+    <h3>Contact Me</h3>
+    <form>
+        <label>Name:</label><br>
+        <input type="text" name="name"><br><br>
+
+        <label>Email:</label><br>
+        <input type="email" name="email"><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+
+</body>
+</html>
 
 
   +++this is what i learn about html since last three days+++      
+
