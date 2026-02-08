@@ -7,7 +7,7 @@ html provide 6 heading tags,used to define titles and sub titles on a webpage.
 <h4>heading 4 </h4>
 <h5>heading 5</h5>
 <h6>heading 6</h6>
-
+##<h5> is enough
 
 key points:
 <h1> is the most important heading
