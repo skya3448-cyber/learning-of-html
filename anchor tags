@@ -1,0 +1,34 @@
+day4:ANCHOR TAGS(HTML links)
+
+HTML link:A link lets users navigate from one webpage to another or to be a different page of the same page.
+
+
+1.<a>
+*the tag is used to create a hyperlink in HTML.
+*syntax
+     <a href="url">link text</a>
+
+2.href
+*stands for hypertext REFerence
+*without href,the <a> tag won't act like a link.
+
+3.opening link in new tabs
+*use the target attribute:
+example code:
+        <a href="https://example.com"target="_blank">visit example</a>
+*(target="_blank") opens link in a new tab.
+
+4.internal page links
+*links to a specific section of the same page
+*give the target element an id
+*link to it with (href="#section1")
+
+5.special link types
+<a href="mailto:someoneexample.com">send email</a>
+
+6. Key Takeaways
+*Links are essential for web navigation.
+*<a> tag with href points where you want to go.
+*You can link text, images, sections, emails, and phone numbers.
+*Practice writing several links to different resources!
+
