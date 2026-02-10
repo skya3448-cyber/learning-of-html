@@ -1,0 +1,28 @@
+DAY05:lists
+1.What Are HTML Lists?
+   HTML lists are used to organize and display a group of related items in a structured way on a webpage. 
+    Lists improve readability and structure.
+
+2.types of list in HTML
+   1.Unorderd List (<ul>)
+     *Used when the order of items doesn't matter.
+     *Displayed with bullets by default.
+     *Each item inside the list is written using <li> tag.
+
+    3.ordered list(<ol>)
+      *Used when the order does matter.
+      *Items are automatically numbered by default.
+      *Also uses <li> for each list in item.
+
+     3. Description List (<dl>)
+       * Used for terms and their descriptions.
+        *Includes three tags:
+             <dl>: list container
+             <dt>: defines the term
+              <dd>: defines the description   
+
+ 3.When to Use Each List
+        List Type                   	Use When…
+            <ul>             	Order doesn’t matter (bullet list)
+            <ol>            	Order matters (steps, ranking)
+            <dl>	            You want term–definition pairs
