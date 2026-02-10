@@ -1,0 +1,16 @@
+
+1. HR Tag – <hr>
+ *What it does:
+     The <hr> tag creates a horizontal line across the page. It’s used to divide or separate sections of content visually.
+ *Type: Empty/void tag (no closing tag needed).
+ *Typical use: Between paragraphs or sections to show a thematic break.
+
+2.📌 2. BR Tag – <br>
+ *What it does:
+    The <br> tag inserts a line break — it moves text to the next line.
+ *Type: Empty/void tag (no separate closing tag).
+ *Use case: When you want a new line without starting a new paragraph.
+
+3.When to Use These Tags
+    * Use <hr> when you want a visual separation between major blocks of content on the page.
+    * Use <br> when you need simple line breaks inside text without creating new paragraphs.
