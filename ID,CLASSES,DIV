@@ -1,0 +1,44 @@
+DAY 05:
+1.ID 
+  *The id attribute gives an element a unique identifier within the page.
+  *Only one element on a page should use a particular id.
+  *IDs are useful when you need to target one specific element for styling or scripting.
+
+2.CLASSES
+  *The class attribute lets you assign a name that can be shared by multiple elements.
+  *Classes are great for grouping elements that should share styles or behavior.
+
+3.DIV
+  *The id attribute gives an element a unique identifier within the page.
+  *Only one element on a page should use a particular id.
+  *IDs are useful when you need to target one specific element for styling or scripting.
+
+
+EXAMPLE:
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    #header {
+      font-size: 36px;
+      text-align: center;
+      color: green;
+    }
+    .box {
+      border: 2px solid black;
+      padding: 10px;
+      margin: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1 id="header">My Website</h1>
+
+  <div class="box">Box 1</div>
+  <div class="box">Box 2</div>
+
+</body>
+</html>
+
+
