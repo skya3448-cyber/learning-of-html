@@ -1,0 +1,29 @@
+CSS (Cascading Style Sheets)
+*CSS controls the appearance and layout of the webpage.
+*Think of CSS as the design and styling of the skeleton.
+
+  **example
+    body {
+    background-color: lightblue;
+         }
+
+    h1 {
+    color: darkblue;
+    text-align: center;
+       }
+
+    np {
+    font-size: 18px;
+       }
+
+how html and css work together
+    <head> <link rel="stylesheet" href="styles.css"></head>
+
+
+
+
+Key Differences
+HTML                 	CSS
+Structure          	Style
+Content             Design
+Elements	          Selectors & Properties
