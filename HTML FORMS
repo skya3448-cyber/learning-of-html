@@ -1,0 +1,18 @@
+<form>: the tag acts as a conatainer for allinput fields.
+       it often includes an action attributes,which specifies where to send the form data  upon submission.
+<labels>used to identify input fields for the user.
+
+type="text":for standard short text
+type="email":specially for email address
+type="password":masks the characters typed for security.
+type="radio":used for multiple choice questions where only one option can be selected.
+
+
+essential attributes
+
+id:A unique identifier for the element ,used for linking labels and hooks for CSS/java script.
+
+name:critical for server side processing to identify which piece of datacorresponds to which field.
+
+value:defines data sent to the server,especially important for radio buttons and  dropdowns where the user isn't typing their own text.
+
