@@ -1,6 +1,6 @@
-<form>: the tag acts as a conatainer for allinput fields.
+<form>: the tag acts as a conatainer for all input fields.
        it often includes an action attributes,which specifies where to send the form data  upon submission.
-<labels>used to identify input fields for the user.
+<labels> used to identify input fields for the user.
 
 type="text":for standard short text
 type="email":specially for email address
