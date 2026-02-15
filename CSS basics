@@ -1,0 +1,15 @@
+STYLE SHEETS :a list of CSS rules
+color:red;(COLOR)
+text-align:right;(text alignment)
+letter-height:30px;(height of the letter)
+background-color:yellow;(background color) 
+etc;
+
+
+inline elements
+-don't takue up any more room than their content need
+-span,img,strongand more
+
+block-level elements
+-take up the whole width of a page regardless of content 
+-p,div,h2,h3,ul,li and more
