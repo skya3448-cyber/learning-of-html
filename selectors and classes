@@ -1,0 +1,15 @@
+core:
+tag selectors:target all elements of a specific type
+classes:used to target specific elements without affecting others.In html,you add class="class name";in CSS ,you use a dot prefix:class name
+       -classes are reusable and can be applied to multiple different elements to save time.
+       -you can chain classes to target elements that have multiple specific classes
+IDs:Targeted with a hash symbol. Unlike classes.IDs must be unique to a single element on a page.
+
+
+Advanced Selection techniques 
+-descendent selectors:Target children inside a parent 
+-attribute selectors:target elements based on their HTML attributes using square brackets
+    **a[href]selects all  link with an href
+    **a[href*=*netninja"]selects links containing "netninja"
+
+  
