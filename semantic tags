@@ -1,0 +1,12 @@
+<main>
+  -main content of the home page.
+<section>
+  -specific section of web page
+<article>
+  -example:blog post
+<aside>
+   -defines some content related to something else
+<header>
+    -header of website
+<footer>
+    -for the footer of a websit
