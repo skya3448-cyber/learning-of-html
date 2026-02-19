@@ -1,0 +1,7 @@
+elements: inspects and edit HTML/CSS live. great for UI prototyping.
+console: view log messages and run javaScript snippets on the fly.
+Sources:Debug javascripts using breakpoints and manage local files.
+Network:monitor API calls,image loads,and site speed.
+Application:Inspects storage like cookies,local storage,and IndexDB.
+Performance:Analyze runtime performance and find "jank"(lag).
+Lighthouse:Run an automated audit for SEO,Accesibility,and Best practices.
