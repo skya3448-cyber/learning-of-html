@@ -1,0 +1,24 @@
+STATIC:it does keep the element in normal,this is the defaut for all elements 
+RELATIVE:you can move it using top,right,bottom,left.The originnal space is still preserved.
+ASOLUTE:REmoved from normal document flow,positioned relaative to the nearest positioned ancestor.
+FIXED:Positioned relative to the viewport,stays in place even when scrolling
+STICKY:Hybrid of relative and fixed,acts like relative until a scroll threshold is met.
+
+
+
+position: static is the default positioning for all elements. It follows the normal document flow,
+meaning elements appear in order from top to bottom as written in HTML. It is mainly used when no 
+special positioning is needed, and properties like top, left, right, and bottom do not affect it.
+position: relative keeps the element in the normal document flow but allows it to be moved 
+slightly from its original position using top, left, right, or bottom. It is commonly used when 
+you need small adjustments in layout or when you want to set a reference point for absolutely 
+positioned child elements.
+position: absolute removes the element from the normal document flow and positions it relative
+to its nearest positioned ancestor (an element that is not static). It is mainly used for dropdown
+menus, tooltips, popups, and placing elements exactly where needed.
+position: fixed also removes the element from the normal flow but positions it relative to
+the browser window. It stays in the same place even when the page is scrolled. It is commonly used 
+for fixed navigation bars, floating buttons, and chat icons.
+position: sticky is a combination of relative and fixed positioning. The element behaves 
+like relative until a certain scroll point is reached, then it becomes fixed. It is mostly used 
+for sticky headers, navigation bars, and section titles that need to remain visible while scrolling.
