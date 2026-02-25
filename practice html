@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>h1{text-align:center;
+        background-color: rgb(162, 32, 32);
+        color: white;}
+        p1{font-size: 15px;
+            text-align: right;}
+        </style>
+<head>
+   
+    <title>my resume</title>
+    <h1>RESUME</h1>
+    
+</head>
+<body>
+    <p>name:AKASH <br>focusing on github<br>total contributions:100</p>
+     <p> phno:6363437234<br>email:akashrnaik3@gmail.com <br>insta:iam.sharva</p>
+</body>
+</html>
