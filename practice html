@@ -1,3 +1,4 @@
+1.
 <!DOCTYPE html>
 <html lang="en">
     
@@ -47,4 +48,69 @@
      <p> phno:6363437234<br>email:akashrnaik3@gmail.com <br>insta:iam.sharva</p>
 </body>
 </div>
+</html>
+
+
+
+
+2.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <style>
+      p{
+         color:blue;
+      }
+      h1{
+         color:green;
+      }
+      h2{
+         color:orange;
+      }
+   </style>
+   <title >Exerise 1-HTML </title>
+</head>
+<body>
+<p align="center" id="section1">This is a exerise 2- anchor tags are used</p>
+<a href="https://www.google.in" target="_blank">link to open google</a>
+<a href="ex1.html" target="_black">link to open exerise 1   </a>
+<h1>This is heading element h1-highest level of heading</h1>   
+<h2>This is heading element h2-second level of heading </h2>
+<h3>This is heading element h3-third level of headind</h3>
+<h4>This is heading element h4-fourth level of headind</h4>
+<h5>This is heading element h5-fifth level of headind</h5>
+<h6>This is heading element h6-sixth level of headind</h6>
+<p id="section2">This is another paragraph using p-elements</p>
+
+<h1>Ordered List-Example</h1>
+<h2>Food Menu</h2>
+<ol type="A" start="2">
+   <li>Egg rice</li>
+   <li>chicken rice</li>
+   <li>veg fried rice</li>
+</ol>
+<p id="section3">This is another paragraph using p-elements</p>
+
+<h1>Unordered List-Example</h1>
+<h2>Breakfast Menu</h2>
+<ul type="circle">
+   <li>Idli</li>
+   <li>Dosa</li>
+   <li>Upma</li>
+   <li>Vada</li>
+
+<h1>Definition List-Example</h1>
+<dl>
+   <dt>idly</dt>
+   <dd>South Indian fermented rice cake</dd>
+   <dt>dosa</dt>
+   <dd>a thin pancake made from fermented rice and lentil batter</dd>
+    <dt>upma</dt>
+    <dd>a savory porridge made from semolina or coarse rice flour</dd>
+     <dt>vada</dt>
+     <dd>a savory fried snack made from lentil or chickpea flour</dd>
+</dl>
+</ul>
+</body>
 </html>
