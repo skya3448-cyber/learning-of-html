@@ -114,3 +114,50 @@
 </ul>
 </body>
 </html>
+
+3.creating a time table
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+    <h1>time table</h1>
+</head>
+<body>
+   <table border="1">
+      <tr>
+         <th> time/day</th>
+         <th>9-10</th> 
+         <th>10-11</th>
+         <th>11-12</th>
+         <th>12-1</th>
+   </tr>
+
+<tr>
+   <th>monday</th>
+   <td>phy</td>
+   <td>maths</td>
+   <td>chem</td>
+   <td>cs</td>
+</tr>
+<tr>
+<th>tuesday</th>
+<td>cs</td>
+<td>maths</td>
+<td>phy</td>
+<td>pe</td>
+</tr>
+<tr>
+   <th>wednesday</th>
+   <td>maths</td>
+   <td>cs</td>
+   <td>kannada</td>
+   <td>freee</td>
+   
+</tr>
+ </table>
+
+</body>
+</html>
+<!
