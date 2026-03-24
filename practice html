@@ -160,4 +160,148 @@
 
 </body>
 </html>
-<!
+
+
+3.<!DOCTYPE html>
+<html>
+<head>
+    <title>Important Notice</title>
+</head>
+<body>
+
+<p>
+<strong>Important:</strong> <em>All students must submit their assignments before the deadline.</em>
+Late submissions will not be accepted.
+</p>
+
+</body>
+</html>
+
+    <title>Artificial Intelligence</title>
+
+
+
+<p>
+<mark>Artificial Intelligence</mark> is transforming the world by enabling machines to learn and make decisions. 
+Technologies like <mark>Machine Learning</mark> and <mark>Deep Learning</mark> are widely used today.
+</p>
+
+    <title>Chemical Formulas</title>
+
+<p>
+H<sub>2</sub>O<br>
+CO<sub>2</sub><br>
+NH<sub>3</sub>
+</p>
+
+<
+
+
+
+    <title>Math Expressions</title>
+
+
+<p>
+x<sup>2</sup> + y<sup>2</sup> = z<sup>2</sup><br>
+a<sup>3</sup> + b<sup>3</sup>
+</p>
+
+
+
+
+    <title>Track Changes</title>
+
+<p>
+I like <del>coffee</del> <ins>green tea</ins> in the morning.
+</p>
+
+
+
+
+
+    <title>Product Description</title>
+
+
+<p>
+<strong>Smartphone X</strong> is a powerful device with <em>fast performance, long battery life, and a high-quality camera</em>.
+<mark>Special Offer: 20% discount available now!</mark>
+</p>
+
+
+
+    <title>Definition List</title>
+
+
+<dl>
+    <dt>HTML</dt>
+    <dd>Used to structure web pages.</dd>
+
+    <dt>CSS</dt>
+    <dd>Used to style web pages.</dd>
+
+    <dt>JavaScript</dt>
+    <dd>Used to add interactivity to web pages.</dd>
+</dl>
+
+
+
+
+
+
+    <title>Science Report</title>
+
+<p>
+Water (H<sub>2</sub>O) is essential for life. Carbon dioxide (CO<sub>2</sub>) is released during respiration.
+The area of a surface is measured in m<sup>2</sup>.
+</p>
+
+
+
+
+
+    <title>Editing Paragraph</title>
+
+
+<p>
+I <del>hate</del> <ins>love</ins> learning <mark>HTML</mark> because it is very useful.
+</p>
+
+
+    <title>Mixed Formatting</title>
+
+
+<p><strong>Web Development Basics</strong></p>
+
+<p>
+<em>HTML</em> is used to create structure. 
+<mark>Important:</mark> Always write clean code.
+Water formula is H<sub>2</sub>O and area is m<sup>2</sup>.
+</p>
+
+<p>
+We <del>avoid</del> <ins>use</ins> best practices for better results.
+</p>
+
+<dl>
+    <dt>HTML</dt>
+    <dd>Structure</dd>
+
+    <dt>CSS</dt>
+    <dd>Style</dd>
+
+    <title>Bookmark Navigation</title>
+
+
+<a href="#intro">Go to Introduction</a><br>
+<a href="#features">Go to Features</a><br>
+<a href="#contact">Go to Contact</a>
+
+<h2 id="intro">Introduction</h2>
+<p>This is the introduction section.</p>
+
+<h2 id="features">Features</h2>
+<p>This section describes features.</p>
+
+<h2 id="contact">Contact</h2>
+<p>This section contains contact information.</p>
+
