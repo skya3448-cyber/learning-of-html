@@ -305,3 +305,20 @@ We <del>avoid</del> <ins>use</ins> best practices for better results.
 <h2 id="contact">Contact</h2>
 <p>This section contains contact information.</p>
 
+4.
+<!DOCTYPE html>
+<html>
+<body>
+
+  <h1 style="color: DodgerBlue;">Hello World</h1>
+  
+  <p style="background-color: #eeeeee; border: 2px solid #333; padding: 10px;">
+    I'm using a HEX background and a HEX border.
+  </p>
+  
+  <p style="color: rgb(255, 0, 0);">I am RGB red.</p>
+  
+  <p style="color: hsl(240, 100%, 50%);">I am HSL blue.</p>
+
+</body>
+</html>
